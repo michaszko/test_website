@@ -15,11 +15,9 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada
 fames ac turpis egestas.
 
 <center>
-<form method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSfLb_uVg5GhlGEjSjLmUv4EfVIhkq-q9ObMbSGP5g94yL0O8A/viewform">
+<form method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSfLb_uVg5GhlGEjSjLmUv4EfVIhkq-q9ObMbSGP5g94yL0O8A/formResponse">
   <label>Email</label>
   <input type="email" name="entry.1936193962" placeholder="Email Address" />
-
-
   <button type="submit">Submit</button>
 </form>
 </center>
